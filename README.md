@@ -2,11 +2,11 @@ This is the reference code for [Cryptotraders Cash](https://www.cryptotraderscas
 
 ## Cryptotraders Cash Cryptocurrency
 
-Name: Cryptotraders Cash
-Ticket: CTRS 
-PoW Hashing Algorithm: CryptoNight-Lite V1 (ASIC Resistant)
-Difficulty Target: 240 Seconds 
-Minimun transaction fee: 0.000001 
+- Name: Cryptotraders Cash
+- Ticket: CTRS 
+- PoW Hashing Algorithm: CryptoNight-Lite V1 (ASIC Resistant)
+- Difficulty Target: 240 Seconds 
+- Minimun transaction fee: 0.000001 
 
 
 
